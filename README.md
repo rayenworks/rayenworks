@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ryan for code</h1>
+<h1 align="center">Hi 👋, I'm shura </h1>
 <h3 align="center">a web developer from Algeria.</h3>
 
 <h3 align="left">Connect with me:</h3>
