@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm shura </h1>
 <h3 align="center">a web developer from oran, Algeria.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
