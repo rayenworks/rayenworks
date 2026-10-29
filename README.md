@@ -1,4 +1,4 @@
-# Hi there, I'm Ryan 
+# Hi there, I'm Ryan 👋
 
 I am a **Freelance Full-Stack Web Developer** based in Algeria 🇩🇿. I build clean, modern, and high-performance web applications, handling everything from frontend interfaces to backend services and databases.
 
@@ -6,7 +6,7 @@ I am a **Freelance Full-Stack Web Developer** based in Algeria 🇩🇿. I build
 
 ### 🌐 Portfolio Website
 Check out my latest work, projects, and details on my portfolio:  
-👉 **[keycode-tau.vercel.app](https://keycode-tau.vercel.app/)**
+👉 **<a href="https://keycode-tau.vercel.app/" target="_blank" rel="noopener noreferrer">keycode-tau.vercel.app</a>**
 
 ---
 
@@ -34,6 +34,6 @@ Check out my latest work, projects, and details on my portfolio:
 
 Have a project in mind or want to collaborate? Feel free to reach out!
 
-<a href="https://api.whatsapp.com/send/?phone=213797412093&text=Hi%2C+I+want+to+talk+about+a+project&type=phone_number&app_absent=0" target="_blank">
+<a href="https://api.whatsapp.com/send/?phone=213797412093&text=Hi%2C+I+want+to+talk+about+a+project&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp" />
 </a>
