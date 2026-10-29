@@ -6,7 +6,7 @@ I am a **Freelance Full-Stack Web Developer** based in Algeria 🇩🇿. I build
 
 ### 🌐 Portfolio Website
 Check out my latest work, projects, and details on my portfolio:  
-👉 **<a href="https://keycode-tau.vercel.app/" target="_blank" rel="noopener noreferrer">keycode-tau.vercel.app</a>**
+👉 **[keycode-tau.vercel.app](https://href.li/?https://keycode-tau.vercel.app/)**
 
 ---
 
@@ -40,6 +40,6 @@ Check out my latest work, projects, and details on my portfolio:
 
 Have a project in mind or want to collaborate? Feel free to reach out!
 
-<a href="https://api.whatsapp.com/send/?phone=213797412093&text=Hi%2C+I+want+to+talk+about+a+project&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer">
+<a href="https://href.li/?https://api.whatsapp.com/send/?phone=213797412093&text=Hi%2C+I+want+to+talk+about+a+project&type=phone_number&app_absent=0">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" height="48" alt="WhatsApp" />
 </a>
