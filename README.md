@@ -7,7 +7,7 @@ I am a **Freelance Full-Stack Web Developer** based in Algeria 🇩🇿. I build
 ### 🌐 Portfolio Website
 Check out my latest work, projects, and details on my portfolio:  
 👉 **[keycode-tau.vercel.app](https://href.li/?https://keycode-tau.vercel.app/)**
-  [![Portfolio](https://img.shields.io/badge/Portfolio-keycode--tau.vercel.app-blue)](https://keycode-tau.vercel.app)
+
 ---
 
 ### 🛠️ Tech Stack & Tools
